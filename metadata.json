@@ -1,0 +1,6 @@
+{
+  "name": "Tag Team Port Hub",
+  "description": "Port nativo de Tag Team para cargar ISOs originales, gestionar DLCs y expansiones, soporte multiidioma, partidas guardadas y sincronización en la nube.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
